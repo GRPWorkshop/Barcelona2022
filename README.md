@@ -1,3 +1,5 @@
+<link rel="shortcut icon" type="image/x-icon" href="logo.ico">
+
 
 # Geometry, Representation Theory and Physics Workshop - Barcelona 2022
 
