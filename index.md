@@ -19,6 +19,11 @@ This workshop will take place in the IMUB room
 
 Second Floor, Faculty of Mathematics
 
+<img src="Images/mapa.png" width="300"/>
+Gran Via de les Corts Catalanes, 585
+
+08007 Barcelona
+
 
 
 ## Lectures / Abstract 
@@ -83,12 +88,12 @@ Master student in theoretical physics at the University of Mons. He is intereste
 She graduated with a double Bachelor’s in mathematics and physics at the University of Barcelona last February. Her interests are p-adic representations of Galois groups, algebraic methods in number theory, and applications of Langland's program in physics. She will introduce p-adic representation theory. 
 
 
-Lore Ipsum
+
 <!---
 - [Lien 1](https://github.com/Seminael/Seminael.github.io/blob/main/pdf-support/JeuAliceEtBob.pdf)
 - [Lien 2](http://)
 -->
-z
+
 ## Les Partipants
 
 |Nom | Université | 
