@@ -15,7 +15,12 @@ In the next weeks a specific planning will be uploaded.
 ### Roberto Emparan. _Geometrical Aspects in AdS/CFT_
 [ICREA Webpage](https://www.icrea.cat/Web/ScientificStaff/roberto-emparan-garcia-de-salazar-226)
 
+<img src="Images/RobertoEmparan.jpg" width="200"/>
+<!---
 <img style="float: right;" src="Images/RobertoEmparan.jpg">
+img src="drawing.jpg" alt="drawing" width="200"/>
+![Emparan](https://github.com/GRPWorkshop/Barcelona2022/blob/gh-pages/Images/RobertoEmparan.jpg))
+-->
 
 Roberto Emparan is ICREA research professor at the Institute of Cosmos Sciences of the University of Barcelona since 2003. He received his PhD from the University of the Basque Country in 1995, and then held postdoctoral positions at UC Santa Barbara, Durham University, and CERN. His research lies at the interface between General Relativity and String Theory, focusing on the classical, quantum, and stringy properties of black holes in different numbers of dimensions, subjects on which he has authored more than 120 articles. In 2016 he received an Advanced Grant of the European Research Council. In 2022 he has been elected Fellow the International Society of General Relativity and Gravitation. He is a member of the editorial board of Living Reviews in Relativity, Journal of High Energy Physics, and Advances in Theoretical and Mathematical Physics. In his talk he will describe some of the geometric features that underlie the AdS/CFT correspondence, which provides a holographic quantum theory of gravity. 
 
