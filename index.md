@@ -3,30 +3,54 @@
 
 This workshop is meant to give a formal introduction to relevant topics in geometry and representation applied to physics, like Deformation Theory or Higher Spin Theory. For this purpose, we invited young researcher in these domains to give 3 to 4 hour long lectures during the last week of July 2022. In between lectures, there will be special speakers that will talk about more specific subjects like the geometry of AdS or the dynamics of AdS/CFT. 
 
-This free-to-enter workshop is targeted towards young researchers in mathemtics, mathematical physics or theoretical physics but can be enjoyed by anyone interested on theses domain.
+This free-to-enter workshop is targeted towards young researchers in mathematics, mathematical physics or theoretical physics but can be enjoyed by anyone interested on theses domain.
+
 
 ## Planning
 The workshop will be taking place from the 25th to the 29th of July, from 9h00 to 13h00 and from 15h00 to 18h00 (GTM+2).
 
-In the next weeks a specific planning will be uploaded. 
+In the next weeks a specific planning will be updated. 
+
+|Hours | Mon 25th | Thu 26th | Wed 27th | Thu 28th | Fri 29th | 
+|:---|:---|:---|:---|:---|:---:|
+|9h00-10h00 |  | |  | |  | |  | |  | 
+|10h00-11h00 | | |  | |  | |  | |  | 
+|11h20-12h20 |  |  |  | |  | |  | |  | 
+|12h20-13h20 |  |  |  | |  | |  | |  | 
+|15h00-16h00 |  | |  | |  | |  | |  | 
+|16h00-17h00 | | |  | |  | |  | |  | 
+|17h00-18h00 |  |  |  | |  | |  | |  | 
+
+
 <!---
 ![Planning](https://github.com/GRPWorkshop/Barcelona2022/blob/gh-pages/15486095-2AB3-405F-8219-34D264ACAF7E.jpeg)
 -->
 
-## Where is the Workshop happening?
+## Attending the workshop
 
-This workshop will take place in the IMUB room 
+If you are planning to attend the workshop from outside barcelona please contact in advance GRPWorkshop2022@outlook.com filling the following information:
 
-Second Floor, Faculty of Mathematics
+- **Name**:
+
+- **University or Institution**: (if any)
+
+- **Position**: (Student, Ph.D, Professor...)
+
+- **Domain of Interest**: 
+
+This workshop will take place in the IMUB room.
+
+Second Floor, Faculty of Mathematics.
 
 <img src="Images/mapa.png" width="300"/>
+
 Gran Via de les Corts Catalanes, 585
 
 08007 Barcelona
 
 
 
-## Lectures / Abstract 
+## Lecturers and Abstract 
 
 ### Roberto Emparan. _Geometrical Aspects in AdS/CFT_
 [ICREA Webpage](https://www.icrea.cat/Web/ScientificStaff/roberto-emparan-garcia-de-salazar-226)
@@ -47,27 +71,27 @@ Roberto Emparan is ICREA research professor at the Institute of Cosmos Sciences 
 - [Lien 2](http://))
 -->
 
-### David Mateos. Dynamical aspects in AdS/CFT
+### David Mateos. _Dynamical aspects in AdS/CFT_
 Finished a Ph.D. in Spacetime physics from worldvolume branes at the University of Barcelona back in 2000 and is now an ICREA Research Professor at the Department of Quantum Physics and Astrophysics, ICCUB, at the University of Barcelona. His research interests center around the classical and quantum physics of Black Holes and gauge/string duality and quantum chromodynamics. In his talk, he will talk about…
 
 
 
-### Thomas Basile. Introduction to deformation quantization of Poisson manifolds
+### Thomas Basile. _Introduction to deformation quantization of Poisson manifolds_
 He is now starting his second PostDoc on Higher spin Gravity at the University of Mons. His interests include algebraic aspects of higher spin gravity, deformation quantization, and its relation to topological sigma models. He will introduce the deformation quantization of Poisson manifolds — which consists in deforming the structure of the associative algebra of the algebra of functions on a Poisson manifold — and the formality theorem due to Kontsevitch.
 
 
 
-### Simon Pekar. Introduction to Higher spin theory
+### Simon Pekar. _Introduction to Higher spin theory_
 He obtained his master’s degree in high-energy physics from the École Polytechnique, Paris, and ETH Zürich. He is currently a Ph.D. in UMONS. He is interested mainly in algebra and geometry, asymptotic symmetries, holography, higher-spin theories, and Carrollian physics. He will discuss the symmetries of higher-spin gravity theories, which are classical theories of gravity including gauge fields with spin strictly greater than two, and what are the applications of symplectic geometry and deformation quantization to this topic
 
 
 
-### Josh'O'Connor. Affine algebra & Kaco moody
+### Josh'O'Connor. _Affine algebra & Kaco moody_
 Ph.D. student of theoretical physics at the University of Mons in Belgium. His previous studies focused on pure mathematics and, later, theoretical physics. Some academic interests of him include Kac-Moody algebras, dualization, mixed-symmetry fields, and algebraic structure in physics. He will focus on the elementary structure theory of Lie algebras and, more generally, Kac-Moody algebras and its relations with physics. 
 
 
 
-### Tung Tran. Deformation of complex structures
+### Tung Tran. _Deformation of complex structures_
 PostDoc student at the University of MONS. His research focuses on higher-spin theories and twistor theory. He is also interested in deformation theory, and he will be talking about the deformation of complex structures on complex manifolds based on the Kodaira-Spencer theory, which has significant applications in twistor theory. In particular, he will show how the deformation of twistor geometry can lead to various self-dual theories on spacetime via the Penrose transform.
 
 
