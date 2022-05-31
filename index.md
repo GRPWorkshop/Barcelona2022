@@ -1,7 +1,9 @@
 
 # Geometry, Representation Theory and Physics Workshop - Barcelona 2022
 
-eeeeeeeeee Praesent mattis dictum justo, eu luctus tortor. Donec porta, arcu in condimentum ultrices, mauris lectus facilisis lectus, eu scelerisque ligula diam non mi. Cras ullamcorper vel metus ut pellentesque. Donec laoreet, sapien non porttitor placerat, mauris purus sagittis sem, quis elementum urna mauris ut lacus. Nullam tempus nunc at nisl suscipit eleifend. Sed sit amet scelerisque nulla. Sed vitae nulla vel orci malesuada dictum. Duis vulputate urna ac nisl accumsan gravida. Integer a nisl nec arcu semper dictum vel sed risus. Curabitur a lacus et urna consequat commodo ac ac neque. Donec commodo aliquam commodo. Vivamus tempus velit dolor, nec dignissim risus iaculis eu. Nulla luctus ipsum nec ex viverra porttitor. Integer pretium aliquam euismod. 
+This workshop is meant to give a formal introduction to relevant topics in geometry and representation applied to physics, like Deformation Theory or Higher Spin Theory. For this purpose, we invited young researcher in these domains to give 3 to 4 hour long lectures during the last week of July 2022. In between lectures, there will be special speakers that will talk about more specific subjects like the geometry of AdS or the dynamics of AdS/CFT. 
+
+This free-to-enter workshop is targeted towards young researchers in mathemtics, mathematical physics or theoretical physics but can be enjoyed by anyone interested on theses domain.
 
 ## Planning
 The workshop will be taking place from the 25th to the 29th of July, from 9h00 to 13h00 and from 15h00 to 18h00 (GTM+2).
@@ -10,6 +12,15 @@ In the next weeks a specific planning will be uploaded.
 <!---
 ![Planning](https://github.com/GRPWorkshop/Barcelona2022/blob/gh-pages/15486095-2AB3-405F-8219-34D264ACAF7E.jpeg)
 -->
+
+## Where is the Workshop happening?
+
+This workshop will take place in the IMUB room 
+
+Second Floor, Faculty of Mathematics
+
+
+
 ## Lectures / Abstract 
 
 ### Roberto Emparan. _Geometrical Aspects in AdS/CFT_
@@ -66,13 +77,11 @@ He obtained a Master’s degree in Theoretical Physics at the University of Pisa
 Master student in theoretical physics at the University of Mons. He is interested in mathematical physics, Poisson geometry, representation theory, and quantization of classical systems. He will talk about Kirillov’s orbit method to classify the unitary representation of certain Lie groups.
 
 ### Anna Blanco Cabanillas. _Topics p-adic representation theory_
-<img src="Images/fotoDNI.jpg" width="200"/>
+
+<img src="Images/fotoDNI.png" width="200"/>
+
 She graduated with a double Bachelor’s in mathematics and physics at the University of Barcelona last February. Her interests are p-adic representations of Galois groups, algebraic methods in number theory, and applications of Langland's program in physics. She will introduce p-adic representation theory. 
 
-
-
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam euismod libero sollicitudin mauris tristique, laoreet sodales ex posuere. Vestibulum maximus metus nec hendrerit bibendum. Integer luctus cursus venenatis. Curabitur sit amet arcu sagittis, elementum purus ut, vehicula nisi. Duis interdum finibus ligula vitae auctor. Maecenas eget finibus diam. Phasellus auctor, mi quis mollis malesuada, risus nunc ullamcorper velit, eget porta magna quam eget tellus. Phasellus luctus massa ut leo tincidunt mollis. Maecenas aliquam erat et efficitur tempor. 
 
 Lore Ipsum
 <!---
