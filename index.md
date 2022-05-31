@@ -66,6 +66,7 @@ He obtained a Master’s degree in Theoretical Physics at the University of Pisa
 Master student in theoretical physics at the University of Mons. He is interested in mathematical physics, Poisson geometry, representation theory, and quantization of classical systems. He will talk about Kirillov’s orbit method to classify the unitary representation of certain Lie groups.
 
 ### Anna Blanco Cabanillas. _Topics p-adic representation theory_
+<img src="Images/fotoDNI.jpg" width="200"/>
 She graduated with a double Bachelor’s in mathematics and physics at the University of Barcelona last February. Her interests are p-adic representations of Galois groups, algebraic methods in number theory, and applications of Langland's program in physics. She will introduce p-adic representation theory. 
 
 
