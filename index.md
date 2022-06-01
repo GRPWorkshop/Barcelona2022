@@ -86,12 +86,12 @@ Finished a Ph.D. in Spacetime physics from worldvolume branes at the University 
 
 
 ### Thomas Basile. _Introduction to deformation quantization of Poisson manifolds_
-He is now starting his second PostDoc on Higher spin Gravity at the University of Mons. His interests include algebraic aspects of higher spin gravity, deformation quantization, and its relation to topological sigma models. He will introduce the deformation quantization of Poisson manifolds — which consists in deforming the structure of the associative algebra of the algebra of functions on a Poisson manifold — and the formality theorem due to Kontsevitch.
+He is now starting his second PostDoc on Higher spin Gravity at the University of Mons. His interests include algebraic aspects of higher spin gravity, deformation quantization, and its relation to topological sigma models. These lectures aim at providing an introduction to deformation quantization of Poisson manifolds — which consists in deforming the structure of associative algebra of the algebra of functions on a Poisson manifold — and the formality theorem. More precisely, we will discuss the precise content of the formality theorem, and explain how it implies the existence of a deformation quantization for all Poisson manifolds.
 
 
 
 ### Simon Pekar. _Introduction to Higher spin theory_
-He obtained his master’s degree in high-energy physics from the École Polytechnique, Paris, and ETH Zürich. He is currently a Ph.D. in UMONS. He is interested mainly in algebra and geometry, asymptotic symmetries, holography, higher-spin theories, and Carrollian physics. He will discuss the symmetries of higher-spin gravity theories, which are classical theories of gravity including gauge fields with spin strictly greater than two, and what are the applications of symplectic geometry and deformation quantization to this topic
+Graduated from the École Polytechnique at Paris, he obtained his master’s degree in high-energy physics from the École Polytechnique and ETH Zürich. He is currently a Ph.D. in UMONS. He is interested mainly in algebra and geometry, asymptotic symmetries, holography, higher-spin theories, and Carrollian physics. He will discuss the symmetries of higher-spin gravity theories, which are classical theories of gravity including gauge fields with spin strictly greater than two. In particular, he will look at higher-spin diffeomorphisms that are gauge transformations of those fields. After a review of higher-spin theories and the representations of their algebra of infinitesimal gauge transformations, ge will look in detail at the obstructions to the lift of these representations to those of a group. We then explain how to bypass this problem by elaborating on results from symplectic geometry and deformation quantisation.
 
 
 
@@ -105,8 +105,9 @@ PostDoc student at the University of MONS. His research focuses on higher-spin t
 
 
 
+
 ### Mattia Serrani. _Higher Spin algebras_
-He obtained a Master’s degree in Theoretical Physics at the University of Pisa respectively in December 2020 with the thesis "Tree-level spectrum of supergravity on AdS_3 x S^3 form Lorentzian inversion formula”. He is interested in Higher spin gravity, Higher spin algebras, Gauge theories, Constrained Hamiltonian Systems, AdS/CFT, 3d-CS theories, Geometry, and Scattering Amplitudes. In his talk, he wants to create a bridge between math and physics regarding the study of higher spin algebras.
+He obtained a Master’s degree in Theoretical Physics at the University of Pisa in December 2020 with the thesis "Tree-level spectrum of supergravity on AdS_3 x S^3 form Lorentzian inversion formula”. He is interested in Higher spin gravity, Higher spin algebras, Gauge theories, Constrained Hamiltonian Systems, AdS/CFT, 3d-CS theories, Geometry, and Scattering Amplitudes. In his talk, he wants to create a bridge between math and physics regarding the study of higher spin algebras. First he will try to give some physical motivation for the interest on these algebras. Secondly he will try to define hs algebras in various dimensions (with particular attention to the 3d and 4d cases) and to interpret them physically as global symmetries or gauge symmetry in one dimension more. Lastly he will see some ways to explicitly construct them and he will give some examples. If there is time he can also see how these algebras constraints physical theories and if they are enough to determine completely the underling theory.
 
 
 
