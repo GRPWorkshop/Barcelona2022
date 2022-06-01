@@ -7,6 +7,13 @@ This workshop is meant to give a formal introduction to relevant topics in geome
 
 This free-to-enter workshop is targeted towards young researchers in mathematics, mathematical physics or theoretical physics but can be enjoyed by anyone interested on theses domain.
 
+## Index
+1. [Planning](planning)
+2. [Attending the workshop](attending-the-workshop)
+3. [Lecturers and Abstracts](lecturers-and-abstracts)
+4. [List of Participants](list-of-participants)
+5. [Organizing team](organizing-team)
+
 
 ## Planning
 The workshop will be taking place from the 25th to the 29th of July, from 9h00 to 13h00 and from 15h00 to 18h00 (GTM+2).
@@ -52,7 +59,7 @@ Gran Via de les Corts Catalanes, 585
 
 
 
-## Lecturers and Abstract 
+## Lecturers and Abstracts
 
 ### Roberto Emparan. _Geometrical Aspects in AdS/CFT_
 [ICREA Webpage](https://www.icrea.cat/Web/ScientificStaff/roberto-emparan-garcia-de-salazar-226)
@@ -120,7 +127,7 @@ She graduated with a double Bachelor’s in mathematics and physics at the Unive
 - [Lien 2](http://)
 -->
 
-## Les Partipants
+## List of Partipants
 
 |Nom | Université | 
 |:---|:---:|
@@ -129,16 +136,10 @@ She graduated with a double Bachelor’s in mathematics and physics at the Unive
 |Nom | Univ | 
 |Nom | Univ | 
 
-## Les Organisateurs
+## Organizing team
 
 ### Anna Blanco
 
 
 ### Ismael
 
-
-## Infos Complémentaires
-- Lorem ipsum dolor sit amet
-- consectetur adipiscing elit.
-- Nam euismod libero sollicitudin
-- mauris tristique, laoreet sodales
