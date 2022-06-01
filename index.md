@@ -21,9 +21,9 @@ The workshop will be taking place from the 25th to the 29th of July, from 9h00 t
 In the next weeks a specific planning will be updated. 
 
 |Hours | Mon 25th | Thu 26th | Wed 27th | Thu 28th | Fri 29th | 
-|:---|:---|:---|:---|:---|:---:|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |9h00-10h00 |  | |  | |  | |  | |  | 
-|10h00-11h00 | | |  | |  | |  | |  | 
+|10h00-11h00 | | Roberto Emparan|  | |  | |  | |  | 
 |11h20-12h20 |  |  |  | |  | |  | |  | 
 |12h20-13h20 |  |  |  | |  | |  | |  | 
 |15h00-16h00 |  | |  | |  | |  | |  | 
@@ -37,7 +37,7 @@ In the next weeks a specific planning will be updated.
 
 ## Attending the workshop
 
-If you are planning to attend the workshop from outside barcelona please contact in advance GRPWorkshop2022@outlook.com filling the following information:
+If you are planning to attend the workshop from outside barcelona please contact in advance at GRPWorkshop2022@outlook.com filling the following information:
 
 - **Name**:
 
