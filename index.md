@@ -7,7 +7,7 @@
 
 <img src="Images/Banner.png" width="500"/>
 
-This workshop is meant to give a formal introduction to relevant topics in geometry and representation applied to physics, like Deformation Theory or Higher Spin Theory. For this purpose, we invited young researcher in these domains to give 3 to 4 hour long lectures during the last week of July 2022. In between lectures, there will be special speakers that will talk about more specific subjects like the geometry of AdS or the dynamics of AdS/CFT. 
+Hello This workshop is meant to give a formal introduction to relevant topics in geometry and representation applied to physics, like Deformation Theory or Higher Spin Theory. For this purpose, we invited young researcher in these domains to give 3 to 4 hour long lectures during the last week of July 2022. In between lectures, there will be special speakers that will talk about more specific subjects like the geometry of AdS or the dynamics of AdS/CFT. 
 
 This free-to-enter workshop is targeted towards young researchers in mathematics, mathematical physics or theoretical physics but can be enjoyed by anyone interested on theses domain.
 
