@@ -5,7 +5,7 @@
 # Geometry, Representation Theory and Physics Workshop - Barcelona 2022
 -->
 
-<img src="Images/Banner.png" width="500"/>
+<img src="Images/Banner.png"/>
 
 This workshop is meant to give a formal introduction to relevant topics in geometry, representation theory and its applications to physics. In this Workshop, young researcher in these domains will give 3 to 4 hour long lectures during the last week of July 2022. In between lectures, there will be special speakers that will talk about more specific subjects like the geometry of AdS or classification problems in Algebraic Geometry. 
 
