@@ -7,16 +7,16 @@
 
 <img src="Images/Banner.png" width="500"/>
 
-Hello This workshop is meant to give a formal introduction to relevant topics in geometry and representation applied to physics, like Deformation Theory or Higher Spin Theory. For this purpose, we invited young researcher in these domains to give 3 to 4 hour long lectures during the last week of July 2022. In between lectures, there will be special speakers that will talk about more specific subjects like the geometry of AdS or the dynamics of AdS/CFT. 
+This workshop is meant to give a formal introduction to relevant topics in geometry, representation theory and its applications to physics. In this Workshop, young researcher in these domains will give 3 to 4 hour long lectures during the last week of July 2022. In between lectures, there will be special speakers that will talk about more specific subjects like the geometry of AdS or classification problems in Algebraic Geometry. 
 
-This free-to-enter workshop is targeted towards young researchers in mathematics, mathematical physics or theoretical physics but can be enjoyed by anyone interested on theses domain.
+This free-to-enter workshop is targeted towards young researchers in mathematics, mathematical physics or theoretical physics but can be attended by anyone interested on theses domain.
 
 ## Index
-1. [Planning](planning)
-2. [Attending the workshop](attending-the-workshop)
-3. [Lecturers and Abstracts](lecturers-and-abstracts)
-4. [List of Participants](list-of-participants)
-5. [Organizing team](organizing-team)
+1. [Planning](#planning)
+2. [Attending the workshop](#attending-the-workshop)
+3. [Lecturers and Abstracts](#lecturers-and-abstracts)
+4. [List of Participants](#list-of-participants)
+5. [Organizing team](#organizing-team)
 
 
 ## Planning
