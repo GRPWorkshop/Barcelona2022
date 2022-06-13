@@ -65,6 +65,9 @@ Gran Via de les Corts Catalanes, 585
 
 ## Lecturers and Abstracts
 
+**List of Speakers.**
+- Roberto Emparan - [Geometrical Aspects in AdS/CFT](#roberto-emparan._geometrical-aspects-in-ads/cft_)
+
 ### Roberto Emparan. _Geometrical Aspects in AdS/CFT_
 [ICREA Webpage](https://www.icrea.cat/Web/ScientificStaff/roberto-emparan-garcia-de-salazar-226)
 
@@ -132,7 +135,7 @@ She graduated with a double Bachelor’s in mathematics and physics at the Unive
 - [Lien 2](http://)
 -->
 
-## List of Partipants
+## List of Participants
 
 |Nom | Université | 
 |:---|:---:|
