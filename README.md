@@ -4,18 +4,18 @@
 # Geometry, Representation Theory and Physics Workshop - Barcelona 2022
 -->
 
-<img src="Images/Banner.png" width="300"/>
+<img src="Images/Banner.png"/>
 
-Hello This workshop is meant to give a formal introduction to relevant topics in geometry and representation applied to physics, like Deformation Theory or Higher Spin Theory. For this purpose, we invited young researcher in these domains to give 3 to 4 hour long lectures during the last week of July 2022. In between lectures, there will be special speakers that will talk about more specific subjects like the geometry of AdS or the dynamics of AdS/CFT. 
+This workshop is meant to give a formal introduction to relevant topics in geometry, representation theory and its applications to physics. In this Workshop, young researcher in these domains will give 3 to 4 hour long lectures during the last week of July 2022. In between lectures, there will be special speakers that will talk about more specific subjects like the geometry of AdS or classification problems in Algebraic Geometry. 
 
-This free-to-enter workshop is targeted towards young researchers in mathematics, mathematical physics or theoretical physics but can be enjoyed by anyone interested on theses domain.
+This free-to-enter workshop is targeted towards young researchers in mathematics, mathematical physics or theoretical physics but can be attended by anyone interested on theses domain.
 
 ## Index
-1. [Planning](planning)
-2. [Attending the workshop](attending-the-workshop)
-3. [Lecturers and Abstracts](lecturers-and-abstracts)
-4. [List of Participants](list-of-participants)
-5. [Organizing team](organizing-team)
+1. [Planning](#planning)
+2. [Attending the workshop](#attending-the-workshop)
+3. [Lecturers and Abstracts](#lecturers-and-abstracts)
+4. [List of Participants](#list-of-participants)
+5. [Organizing team](#organizing-team)
 
 
 ## Planning
@@ -63,6 +63,9 @@ Gran Via de les Corts Catalanes, 585
 
 
 ## Lecturers and Abstracts
+
+**List of Speakers.**
+- Roberto Emparan - [Geometrical Aspects in AdS/CFT](#roberto-emparan._geometrical-aspects-in-ads/cft_)
 
 ### Roberto Emparan. _Geometrical Aspects in AdS/CFT_
 [ICREA Webpage](https://www.icrea.cat/Web/ScientificStaff/roberto-emparan-garcia-de-salazar-226)
@@ -131,7 +134,7 @@ She graduated with a double Bachelor’s in mathematics and physics at the Unive
 - [Lien 2](http://)
 -->
 
-## List of Partipants
+## List of Participants
 
 |Nom | Université | 
 |:---|:---:|
