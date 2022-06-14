@@ -41,7 +41,7 @@ In the next weeks a specific planning will be updated.
 
 ## Attending the workshop
 
-If you are planning to attend the workshop please fill the form at https://forms.office.com/r/EddQm2EpDk.
+If you are planning to attend the workshop please fill this [form](https://forms.office.com/r/EddQm2EpDk).
 
 
 This workshop will take place in the IMUB room.
