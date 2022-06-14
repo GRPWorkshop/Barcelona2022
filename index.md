@@ -41,15 +41,8 @@ In the next weeks a specific planning will be updated.
 
 ## Attending the workshop
 
-If you are planning to attend the workshop from outside barcelona please contact in advance at GRPWorkshop2022@outlook.com filling the following information:
+If you are planning to attend the workshop please fill the form at https://forms.office.com/r/EddQm2EpDk.
 
-- **Name**:
-
-- **University or Institution**: (if any)
-
-- **Position**: (Student, Ph.D, Professor...)
-
-- **Domain of Interest**: 
 
 This workshop will take place in the IMUB room.
 
