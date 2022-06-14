@@ -176,17 +176,20 @@ In his talk, we will study the deformation of complex structures on complex mani
 -->
 
 ## List of Participants
-| Name | Institution  | 
+
+
+- Anna Blanco Cabanillas - University of Barcelona
+- Ismaël Ahlouche - University of Mons
+- Arnaud Delfante - University of Mons
+- Tung Tran - University of Mons
+- Thomas Carrière - University of Bordeaux
+- Josh'O'Connor - University of Mons
+- Mattia Serrani - Unievrsity of Mons
+- Ivano Basile - University of Mons
 
 |Adrien Scalea | University of Mons | 
 
-|Ismaël Ahlouche |University of Mons|
-
 |Noémie Parrini | University of Mons| 
-
-| Thomas Carrière | University of Bordeaux |
-
-|Anna Blanco Cabanillas | University of Barcelona | 
 
 | Vic | University of Gent  | 
 
