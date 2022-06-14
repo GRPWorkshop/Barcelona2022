@@ -188,6 +188,7 @@ In his talk, we will study the deformation of complex structures on complex mani
 - Ivano Basile - University of Mons
 - Adrien Scalea - University of Mons 
 - Noémie Parrini - University of Mons
+- Arnaud Delfante - University of Mons
 
 
 ## Organizing team
