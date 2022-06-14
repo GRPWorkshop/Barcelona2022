@@ -183,6 +183,7 @@ In his talk, we will study the deformation of complex structures on complex mani
 -->
 
 ## List of Participants
+| Name | Institution  | 
 
 |Adrien Scalea | University of Mons | 
 
