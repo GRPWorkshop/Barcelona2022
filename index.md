@@ -90,7 +90,7 @@ The plan  of this talk is to introduce strings in flat spacetime, focusing on th
 The consistency conditions on these spectra are reflected in the remarkable modular properties of the corresponding partition functions, and lead to just a handful of possible consistent models, among which the celebrated superstrings in ten dimensions.
 
 
-### Thomas Basile. _Introduction to deformation quantization of Poisson manifolds_
+### Thomas Basile.  _Introduction to deformation quantization of Poisson manifolds_
 Thomas Basile is starting his secod PostDoc on Higher spin Gravity at the University of Mons. His interests include algebraic aspects of higher spin gravity, deformation quantization, and its relation to topological sigma models. 
 
 The  lectures  that he will provide is about deformation quantizaton of Poisson maniolds. The latter consists in deforming the structure of associative algebra of the algebra of functions on a Poisson manifold. 
@@ -152,9 +152,9 @@ During the lectures we will discuss the symmetries of higher-spin gravity theori
 
 
 ### Mattia Serrani. _Higher Spin algebras_
-Mattia Serrani obtained his Master in Theoretical Physics at the University of Pisa in December 2020. Now he is a PhD Student at University of Mons. His interest are both in pure math and physics, precisely in Higher spin gravity, Higher spin algebras, Gauge theories, Constrained Hamiltonian Systems, AdS/CFT  and  Geometry. This talk is meant to create a bridge between math and physics regarding the study of higher spin  algebras.
+Mattia Serrani did his Master in Theoretical Physics at the University of Pisa in December 2020. Currently he is a PhD Student at University of Mons. His interest is mainly in physics and pure math, more precisely, in Higher spin algebras, Constrained Hamiltonian Systems, AdS/CFT  and  Geometry. 
 
-First, I will try to give some Physical motivation for the interest on these algebras. Secondly, we will try to define this algebras in various dimensions (with particular attention to the 3d and 4d cases) and to interpret them physically as global symmetries or gauge symmetry in one dimension more. Lastly, we will see some ways to explicitly construct them and I will give some examples.
+The aim of this talk is to create a bridge between math and physics regarding the study of higher spin  algebras. First, I will give some Physical motivation for the interest on these algebras. Secondly, we will  define this algebras in various dimensions, with a particular attention  in the case of  3 and 4 dimensions. Also, we will interpret them physically as global symmetries or as a gauge symmetry  if we add one more dimension to our system. Lastly, we will see  explicitly how to  construct them and illustrate it with examples.
 
 
 
@@ -165,7 +165,7 @@ Tung Tran his currently a PostDoc in theoretical physics at the University of Mo
 In his talk, we will study the deformation of complex structures on complex manifolds based on the Spencer-Kodaira theory, which has significant applications in twistor theory. In particular, we will show how the deformation of twistor geometry can lead to various self-dual theories on spacetime via the Penrose transform.
 
 
-### Artur Vieiro _ _
+### Artur Vieiro 
 
 
 
@@ -186,12 +186,8 @@ In his talk, we will study the deformation of complex structures on complex mani
 - Josh'O'Connor - University of Mons
 - Mattia Serrani - Unievrsity of Mons
 - Ivano Basile - University of Mons
-
-|Adrien Scalea | University of Mons | 
-
-|Noémie Parrini | University of Mons| 
-
-| Vic | University of Gent  | 
+- Adrien Scalea - University of Mons 
+- Noémie Parrini - University of Mons
 
 
 ## Organizing team
