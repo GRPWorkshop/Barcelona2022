@@ -75,7 +75,7 @@ Gran Via de les Corts Catalanes, 585
 
 Ismaël L.Ahlouche is a last year master student in physics at the University of Mons. His master thesis was about the geometry of coadjoint orbit and their quantization. Some of his interests are in  Poisson geometry, representation theory and quantization of classical systems. During his talk he will give a short introduction to the orbit method. The latter due to Kirillov, is a method to construct unitary irreducible representations (UIR) of a given Lie group from a geometrical object that we call  coadjoints orbits. In the first part he will explain what is a coadjoint orbit and how do we construct UIR from it, while the last part focus on some examples.
 
-### Ivano Basile. _String theory and representation _
+### Ivano Basile. _String theory and representation_
 
 Ivano Basile obtained his PhD at Scuola Normale Superiore, Pisa, under the supervision of Augusto Sagnotti. He worked on supersymmetry breaking in string theory. Currently he is a postdoctoral researcher at UMONS, and will join the string theory group at LMU and Max Planck Institute in Munich in the fall. His academic interest string theory, holography, swampland program.
 
@@ -123,9 +123,9 @@ Josh O’Connor is a PhD student of theoretical physics at the University of Mon
 Finished a Ph.D. in Spacetime physics from worldvolume branes at the University of Barcelona back in 2000 and is now an ICREA Research Professor at the Department of Quantum Physics and Astrophysics, ICCUB, at the University of Barcelona. His research interests center around the classical and quantum physics of Black Holes and gauge/string duality and quantum chromodynamics. In his talk, he will talk about…
 
 
-### Ignasi Mundet _????_
+### Ignasi Mundet 
 
-### Juan Carlos Naranjo _????_
+### Juan Carlos Naranjo 
 
 
 ### Simon Pekar. _Introduction to Higher spin theory_
@@ -146,7 +146,7 @@ Tung Tran his currently a PostDoc in theoretical physics at the University of Mo
 In his talk, we will study the deformation of complex structures on complex manifolds based on the Spencer-Kodaira theory, which has significant applications in twistor theory. In particular, we will show how the deformation of twistor geometry can lead to various self-dual theories on spacetime via the Penrose transform.
 
 
-### Artur Vieiro _??_
+### Artur Vieiro _ _
 
 
 
