@@ -185,10 +185,15 @@ In his talk, we will study the deformation of complex structures on complex mani
 ## List of Participants
 
 |Adrien Scalea | University of Mons | 
+
 |Ismaël Ahlouche |University of Mons|
+
 |Noémie Parrini | University of Mons| 
-| Thomas Carrière | University of Bordeaux | 
+
+| Thomas Carrière | University of Bordeaux |
+
 |Anna Blanco Cabanillas | University of Barcelona | 
+
 | Vic | University of Gent  | 
 
 
