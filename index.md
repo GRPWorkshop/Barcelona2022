@@ -179,7 +179,7 @@ In his talk, we will study the deformation of complex structures on complex mani
 
 
 - Anna Blanco Cabanillas - University of Barcelona
-- Ismaël Ahlouche - University of Mons
+- Ismaël L. Ahlouche - University of Mons
 - Arnaud Delfante - University of Mons
 - Tung Tran - University of Mons
 - Thomas Carrière - University of Bordeaux
@@ -188,13 +188,10 @@ In his talk, we will study the deformation of complex structures on complex mani
 - Ivano Basile - University of Mons
 - Adrien Scalea - University of Mons 
 - Noémie Parrini - University of Mons
-- Arnaud Delfante - University of Mons
+- Simon Pekar - University of Mons
 
 
 ## Organizing team
 
-### Anna Blanco Cabanillas 
+This workshop is organized by Anna Blanco Cabanillas and Ismaël L. Ahlouche. We are both master students in mathematics and theoretical physics. 
 
-
-### Ismael L.Ahlouche
-Ismaël L.Ahlouche is a last year master student in physics at the University of Mons.
