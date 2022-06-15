@@ -27,7 +27,7 @@ In the next weeks a specific planning will be updated.
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |9h00-10h00 |  | |  | |  | |  | |  | 
 |10h00-11h00 | | Roberto Emparan|  | |  | |  | |  | 
-|11h20-12h20 |  |  |  | |  | |  | |  | 
+|11h20-12h20 |  | David Mateos |  | |  | |  | |  | 
 |12h20-13h20 |  |  |  | |  | |  | |  | 
 |15h00-16h00 |  | |  | |  | |  | |  | 
 |16h00-17h00 | | |  | |  | |  | |  | 
@@ -87,7 +87,10 @@ Roberto Emparan is ICREA research professor at the Institute of Cosmos Sciences 
 -->
 
 ### David Mateos. _Dynamical aspects in AdS/CFT_
-Finished a Ph.D. in Spacetime physics from worldvolume branes at the University of Barcelona back in 2000 and is now an ICREA Research Professor at the Department of Quantum Physics and Astrophysics, ICCUB, at the University of Barcelona. His research interests center around the classical and quantum physics of Black Holes and gauge/string duality and quantum chromodynamics. In his talk, he will talk about…
+
+David Mateos obtained his PhD from the University of Barcelona in 2000. After that he held postdoctoral positions at Cambridge University, Perimeter Institute and the University of California at Santa Barbara. He has been an ICREA Research Professor at the Institute of Cosmos Sciences at the University of Barcelona since July 2008. In 2012 he was awarded a Starting Grant from the European Research Council. His main goal is to understand the physics of the Universe at the most fundamental level. This requires a unified, quantum theory of all interactions. For this reason he works on string theory, a quantum theory that has the potential to describe all forces and particles in Nature in a single, unified framework. 
+
+In this talk he will describe some dynamical aspects of the AdS/CFT correspondence, possibly the most important development in theoretical physics in the last 25 years. 
 
 
 
