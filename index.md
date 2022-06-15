@@ -189,6 +189,7 @@ In his talk, we will study the deformation of complex structures on complex mani
 - Adrien Scalea - University of Mons 
 - Noémie Parrini - University of Mons
 - Simon Pekar - University of Mons
+- Guillaume Lhost - University of Mons
 
 
 ## Organizing team
