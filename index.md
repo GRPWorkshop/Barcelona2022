@@ -143,8 +143,11 @@ In this talk he will describe some dynamical aspects of the AdS/CFT corresponden
 
 ### Ignasi Mundet 
 
-### Juan Carlos Naranjo 
+### Juan Carlos Naranjo. _Rationality problems in Algebraic Geometry_
 
+Joan Carles Naranjo is a permanent researcher at the University of Barcelona since 1993. He is also a member of the Centre de Recerca Matemàtica. His area of expertise is Algebraic Geometry, more specifically he works on Abelian varieties, algebraic curves, irregular varieties and cycle theory. 
+
+A rational variety is an algebraic variety which is birational to an affine space. It is a hard and fundamental problem to recognize which varieties are rational. Historically, rationality problems have been of great importance in Algebraic Geometry and have motivated fundamental developments, as the theory of Riemann surfaces, and the Abel–Jacobi map. Castelnuovo’s solution of the so-called Lüroth problem in dimension 2 and the counterexamples to the Lüroth problem in dimension 3 are milestones in the development of the area. The aim of the talk is to give an elementary survey to some old and new methods used in this context.
 
 ### Simon Pekar. _Introduction to Higher spin theory_
 Simon Pekar is a PhD student at University of Mons. His academic interest consists in algebra,  geometry, asymptotic symmetries, holography, higher-spin theories and Carrollian physics.
