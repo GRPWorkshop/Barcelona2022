@@ -24,15 +24,15 @@ The workshop will be taking place from the 25th to the 29th of July, from 9h00 t
 
 In the next weeks a specific planning will be updated. 
 
-|Hours | Mon 25th | Thu 26th | Wed 27th | Thu 28th | Fri 29th | 
+|Hours | Mon 25th | Tu 26th | Wed 27th | Thu 28th | Fri 29th | 
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|9h00-10h00 |  | |  | |  | |  | |  | 
-|10h00-11h00 | | |  | |  | |  | |  | 
-|11h20-12h20 |  | Roberto Emparan |  | |  | |  | |  | 
-|12h20-13h20 |  | David Mateos |  | |  | |  | |  | 
-|15h00-16h00 |  | |  | |  | |  | |  | 
-|16h00-17h00 | | |  | |  | |  | |  | 
-|17h00-18h00 |  |  |  | |  | |  | |  | 
+|9h00-10h00 | ARRIVAL & INTRODUCTION |  |   |  |  | 
+|10h00-11h00 | |  |  | |  | 
+|11h20-12h20 |  | Roberto Emparan |  | |  |
+|12h20-13h20 |  | David Mateos |  | | Joan Carles Naranjo | 
+|15h00-16h00 | |  |  | |  | 
+|16h00-17h00 | |  |  | |  | 
+|17h00-18h00 | |  |  | |  | 
 
 
 <!---
@@ -67,7 +67,7 @@ Gran Via de les Corts Catalanes, 585
 - Josh O'Connor
 - David Mateos
 - Ignasi Mundet 
-- Juan Carlos Naranjo
+- Joan Carles Naranjo
 - Simon Pekar
 - Mattia Serrani
 - Tung Tran
@@ -143,7 +143,7 @@ In this talk he will describe some dynamical aspects of the AdS/CFT corresponden
 
 ### Ignasi Mundet 
 
-### Juan Carlos Naranjo. _Rationality problems in Algebraic Geometry_
+### Joan Carles Naranjo. _Rationality problems in Algebraic Geometry_
 
 Joan Carles Naranjo is a permanent researcher at the University of Barcelona since 1993. He is also a member of the Centre de Recerca Matemàtica. His area of expertise is Algebraic Geometry, more specifically he works on Abelian varieties, algebraic curves, irregular varieties and cycle theory. 
 
